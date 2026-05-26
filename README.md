@@ -12,7 +12,7 @@
 
 Author: Susan Ho  
 Date: 2026-15-03  
-Tools Used: Machine Learning - Python | Power BI  
+Tools Used: Machine Learning - Python 
 
 ## 📑 Table of Contents
 
